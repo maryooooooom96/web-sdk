@@ -10,7 +10,7 @@
 		"lint": "eslint *.ts*"
 	},
 	"devDependencies": {
-		"eslint": "9.21.0",
+		"eslint": "9.27.0",
 		"config-ts": "workspace:*",
 		"eslint-config-custom": "workspace:*"
 	},
