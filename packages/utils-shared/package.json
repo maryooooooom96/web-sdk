@@ -15,7 +15,7 @@
 		"eslint-config-custom": "workspace:*"
 	},
 	"dependencies": {
-		"lodash": "4.17.16",
+		"lodash": "4.17.20",
 		"@types/lodash": "4.17.16",
 		"@lingui/core": "5.2.0",
 		"state-shared": "workspace:*",
