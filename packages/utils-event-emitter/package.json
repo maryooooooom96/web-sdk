@@ -9,7 +9,7 @@
 	},
 	"type": "module",
 	"devDependencies": {
-		"eslint": "9.21.0",
+		"eslint": "9.27.0",
 		"eslint-config-custom": "workspace:*",
 		"@sveltejs/package": "2.3.10",
 		"@sveltejs/vite-plugin-svelte": "5.0.3",
