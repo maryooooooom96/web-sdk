@@ -15,7 +15,7 @@
 	},
 	"dependencies": {
 		"svelte": "5.20.5",
-		"lodash": "4.17.16",
+		"lodash": "4.17.20",
 		"@types/lodash": "4.17.16",
 		"envs": "workspace:*",
 		"pixi-svelte": "workspace:*",
