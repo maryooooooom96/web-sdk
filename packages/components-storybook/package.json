@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "svelte": "5.20.5",
-    "vite": "6.2.0",
+    "vite": "6.4.1",
     "@lingui/core": "5.2.0",
     "components-shared": "workspace:*",
     "utils-layout": "workspace:*",
