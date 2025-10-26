@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "svelte": "5.20.5",
-    "vite": "6.2.0",
+    "vite": "6.2.5",
     "utils-shared": "workspace:*",
     "pixi-svelte": "workspace:*",
     "@chromatic-com/storybook": "3.2.5",
