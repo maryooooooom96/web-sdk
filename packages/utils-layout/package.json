@@ -18,7 +18,7 @@
 		"@sveltejs/vite-plugin-svelte": "5.0.3"
 	},
 	"dependencies": {
-		"lodash": "4.17.16",
+		"lodash": "4.17.23",
 		"@types/lodash": "4.17.16",
 		"svelte": "5.20.5",
 		"vite": "6.2.0",
